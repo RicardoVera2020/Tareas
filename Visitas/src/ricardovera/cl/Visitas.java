@@ -11,7 +11,7 @@ public static double promedio(int[] visitas) {
 	}
 		
 	
-		return jsum / visitas.length;
+		return sum / visitas.length;
 	}
 	
 	public static void main(String[] args) {
